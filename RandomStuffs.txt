@@ -27,6 +27,8 @@ http://arxiv.org/pdf/1509.01549v2.pdf
 
 -- Web Technologies:
 
+-- HTML5 / CSS3 / Javascript:
+
 -- Photography:
 
 -- Travel:
