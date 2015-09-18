@@ -2,10 +2,12 @@
 http://www.netlib.org/liblist.html
 
 -- Interesting articles:
+http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/
 
 -- Interesting websites:
 
 -- Good technology papers:
+http://arxiv.org/pdf/1509.01549v2.pdf
 
 -- Wikipedia links:
 
@@ -18,6 +20,7 @@ http://www.netlib.org/liblist.html
 -- Hadoop/MapReduce:
 
 -- Artificial Intelligence:
+http://arxiv.org/pdf/1509.01549v2.pdf
 
 -- Python:
 
@@ -28,3 +31,4 @@ http://www.netlib.org/liblist.html
 -- Travel:
 
 -- Space and Universe:
+http://gizmodo.com/two-black-holes-are-about-to-smash-into-each-other-1730941098
