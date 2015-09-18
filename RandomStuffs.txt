@@ -1,12 +1,30 @@
-1. Index of software libraries:
+-- Index of software libraries:
 http://www.netlib.org/liblist.html
 
-2. Interesting articles:
+-- Interesting articles:
 
-3. Interesting websites:
+-- Interesting websites:
 
-4. Good technology papers:
+-- Good technology papers:
 
-5. Wikipedia links:
+-- Wikipedia links:
 
-6. Books:
+-- Books:
+
+-- Java:
+
+-- C/C++:
+
+-- Hadoop/MapReduce:
+
+-- Artificial Intelligence:
+
+-- Python:
+
+-- Web Technologies:
+
+-- Photography:
+
+-- Travel:
+
+-- Space and Universe:
